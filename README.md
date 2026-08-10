@@ -12,7 +12,7 @@ The API analyzes a route between two locations, identifies the lowest-priced fue
 * ⛽ Intelligent fuel-stop selection based on fuel prices
 * 📍 Cheapest station within a 30-mile route corridor
 * 🚚 Vehicle range-aware planning (500-mile tank range)
-* 💰 Detailed fuel cost estimation and breakdown
+* 💰 Detailed fuel cost estimation and breakdown 
 * 🗺️ GeoJSON route geometry for frontend map rendering
 * 🔗 Google Maps and OpenStreetMap route generation
 * ⚡ High-performance vectorized geospatial search using NumPy
